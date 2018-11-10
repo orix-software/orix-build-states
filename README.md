@@ -9,8 +9,8 @@
 ## Cardridge (orix-software/cardridge.git)
 [![Build Status](https://travis-ci.org/orix-software/cardridge.svg?branch=master)](https://travis-ci.org/orix-software/cardridge)
 
-## Cardridge (orix-software/monitor.git)
+## Monitor (orix-software/monitor.git)
 [![Build Status](https://travis-ci.org/orix-software/monitor.svg?branch=master)](https://travis-ci.org/orix-software/monitor)
 
-## Cardridge (orix-software/empty-rom.git)
+## Empty-roms (orix-software/empty-rom.git)
 [![Build Status](https://travis-ci.org/orix-software/empty-rom.svg?branch=master)](https://travis-ci.org/orix-software/empty-rom)
