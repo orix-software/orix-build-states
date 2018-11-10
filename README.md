@@ -1,6 +1,6 @@
-# Orix states builds 
+# Orix builds states
 
-## Shell (oric-software/kernel.git)
+## Kernel (oric-software/kernel.git)
 [![Build Status](https://travis-ci.org/oric-software/orix.svg?branch=master)](https://travis-ci.org/orix-software/orix)
 
 ## Shell (orix-software/shell.git)
