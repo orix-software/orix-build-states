@@ -14,3 +14,9 @@
 
 ## Empty-roms (orix-software/empty-rom.git)
 [![Build Status](https://travis-ci.org/orix-software/empty-rom.svg?branch=master)](https://travis-ci.org/orix-software/empty-rom)
+
+## Forth (orix-software/forth.git)
+[![Build Status](https://travis-ci.org/orix-software/forth.svg?branch=master)](https://travis-ci.org/orix-software/forth)
+
+## Basic (orix-software/basic.git)
+[![Build Status](https://travis-ci.org/orix-software/basic.svg?branch=master)](https://travis-ci.org/orix-software/basic)
