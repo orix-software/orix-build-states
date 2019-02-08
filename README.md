@@ -1,7 +1,7 @@
 # Orix builds states
 
-## Kernel (oric-software/kernel.git)
-[![Build Status](https://travis-ci.org/oric-software/orix.svg?branch=master)](https://travis-ci.org/orix-software/orix)
+## Kernel (orix-software/kernel.git)
+[![Build Status](https://travis-ci.org/orix-software/kernel.svg?branch=master)](https://travis-ci.org/orix-software/kernel)
 
 ## Shell (orix-software/shell.git)
 [![Build Status](https://travis-ci.org/orix-software/shell.svg?branch=master)](https://travis-ci.org/orix-software/shell)
@@ -12,7 +12,7 @@
 ## Monitor (orix-software/monitor.git)
 [![Build Status](https://travis-ci.org/orix-software/monitor.svg?branch=master)](https://travis-ci.org/orix-software/monitor)
 
-## Empty-roms (orix-software/empty-rom.git)
+## Empty-rom (orix-software/empty-rom.git)
 [![Build Status](https://travis-ci.org/orix-software/empty-rom.svg?branch=master)](https://travis-ci.org/orix-software/empty-rom)
 
 ## Forth (orix-software/forth.git)
