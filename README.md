@@ -20,3 +20,6 @@
 
 ## Basic (orix-software/basic.git)
 [![Build Status](https://travis-ci.org/orix-software/basic.svg?branch=master)](https://travis-ci.org/orix-software/basic)
+
+## Basic (orix-software/softwares.git)
+[![Build Status](https://travis-ci.org/orix-software/softwares.svg?branch=master)](https://travis-ci.org/orix-software/softwares)
